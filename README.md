@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eashwarmp
-- 👀 I’m interested in JavaScript,NodeJS and React.
-- 🌱 I’m practising learning NodeJS and React
+- 👀 I’m interested in MERN Stack and Java.
+- 🌱 I’m practising developing fullstack apps now. I would sure love to learn java a bit more though :P
 - 💞️ I’m looking to collaborate on JS or NodeJS projects for fun.
 - 📫 How to reach me eashwarmp1998@gmail.com
 <!---
