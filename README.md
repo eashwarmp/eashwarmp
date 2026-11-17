@@ -22,7 +22,7 @@ structured data extraction.
 - [Developing generative AI functionalities in a social LMS](https://doi.org/10.1007/s44163-024-00168-7),
   *Discover Artificial Intelligence* 4, 99 (Springer, Dec 2024). M. Zhao, P. Kumari, **E. M. Perumal**, Z. Hou.
   Covers three generative AI features we shipped in the CourseNetworking LMS: automated hashtagging, AI post
-  reflections and quiz question generation. I designed and built these features with Python, the OpenAI APIs
+  reflections and quiz question generation. I helped design and build these features with Python, the OpenAI APIs
   and prompt engineering.
 
 📫 eashwarmp1012@gmail.com
