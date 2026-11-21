@@ -16,8 +16,6 @@ structured data extraction.
 - [MyCompass](https://github.com/eashwarmp/MyCompass): campus events feed; scraper → LLM normalization and ranking
   → Redis cache → Expo app
 - [astro-tree](https://github.com/eashwarmp/astro-tree): interactive 3D horoscope in React Three Fiber
-- [Angular-Migration](https://github.com/eashwarmp/Angular-Migration): Angular 19 signals, standalone components
-  and NgRx
 
 **Publication**
 
