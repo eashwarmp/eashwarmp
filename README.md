@@ -9,6 +9,8 @@ structured data extraction.
 
 **Projects worth a look**
 
+- [Closer](https://github.com/eashwarmp/closer): the AI sales engineer that runs a product demo live. It talks to
+  the buyer, drives the real app in a browser, and recovers when they interrupt. MCP server, 21-scenario eval suite
 - [prototype-demo-recorder](https://github.com/eashwarmp/prototype-demo-recorder): records an interactive
   prototype as real-time MP4s with a frame-accurate action log, plus verify and audit tooling
 - [MyCompass](https://github.com/eashwarmp/MyCompass): campus events feed; scraper → LLM normalization and ranking
